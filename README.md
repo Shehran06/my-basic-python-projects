@@ -1,2 +1,2 @@
 # my basic python projects
- this repository contains a list of basic python projects
+ this file shows a basic encrypting algorithm
